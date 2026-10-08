@@ -25,3 +25,6 @@ This project is my week 2 assignment for the Averon Academy developer program. I
 
 ## Goals
 my goals is to become a skilled web developer inshallah and use technology to solve real word problems.
+## Live Websites
+you can view my week 2 portfolio here:
+(https://bashtheespec.github.io/averon-academy-week-02/)
